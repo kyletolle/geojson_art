@@ -178,5 +178,7 @@ private
   end
 end
 
+#TODO: This seems like a perfect use for ARGF. See Avdi's screencast about it.
+
 GeojsonArt.new.generate
 
